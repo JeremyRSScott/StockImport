@@ -1,0 +1,25 @@
+[debug] Packaging C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\stockimport_2.13-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes
+[debug] 	StockImport
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport
+[debug] 	StockImport\DatabaseStrategy$.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\DatabaseStrategy$.class
+[debug] 	StockImport\DatabaseStrategy.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\DatabaseStrategy.class
+[debug] 	StockImport\HttpRequest$.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\HttpRequest$.class
+[debug] 	StockImport\HttpRequest.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\HttpRequest.class
+[debug] 	StockImport\JsonParser$.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\JsonParser$.class
+[debug] 	StockImport\JsonParser.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\JsonParser.class
+[debug] 	StockImport\Main$.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\Main$.class
+[debug] 	StockImport\Main$delayedInit$body.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\Main$delayedInit$body.class
+[debug] 	StockImport\Main.class
+[debug] 	  C:\Users\jerem\IdeaProjects\StockImport\target\scala-2.13\classes\StockImport\Main.class
+[debug] Done packaging.

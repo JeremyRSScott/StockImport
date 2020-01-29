@@ -1,0 +1,5 @@
+[debug] [watch] [stockimport / Compile / run] Found inputs: C:\Users\jerem\IdeaProjects\StockImport\*.{java,scala},C:\Users\jerem\IdeaProjects\StockImport\src\main\java\**\*.{java,scala},C:\Users\jerem\IdeaProjects\StockImport\src\main\resources\**\*,C:\Users\jerem\IdeaProjects\StockImport\src\main\scala\**\*.{java,scala},C:\Users\jerem\IdeaProjects\StockImport\src\main\scala-2.13\**\*.{java,scala}
+[info] 1. Monitoring source files for stockimport/run...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] [watch] [debug] Received input event: Run().
+[debug] [watch] [debug] Received input event: Run().
