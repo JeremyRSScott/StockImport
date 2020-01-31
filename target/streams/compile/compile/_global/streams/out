@@ -1,6 +1,2 @@
 [debug] Acquiring lock on file C:\Users\jerem\IdeaProjects\StockImport\project\target\.sbt-compilation-infos\stockimport-compile\.sbt-idea-lock ...
-[warn] C:\Users\jerem\IdeaProjects\StockImport\src\main\scala\StockImport\Main.scala:21:12: non-variable type argument String in type pattern scala.collection.immutable.HashMap[String,Any] is unchecked since it is eliminated by erasure
-[warn]     case m:HashMap[String,Any]=>{
-[warn]            ^
-[warn] one warning found
 [debug] Releasing lock on file C:\Users\jerem\IdeaProjects\StockImport\project\target\.sbt-compilation-infos\stockimport-compile\.sbt-idea-lock.

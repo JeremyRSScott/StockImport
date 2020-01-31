@@ -1,5 +1,6 @@
 package StockImport
 import scala.util.parsing.combinator._
+
 class JsonParser extends JavaTokenParsers{
   def obj: Parser[Map[String,Any]] =
     "{" ~> repsep(member,",") <~ "}" ^^ (Map() ++ _)
