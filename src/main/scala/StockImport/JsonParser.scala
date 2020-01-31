@@ -25,7 +25,7 @@ class JsonParser extends JavaTokenParsers{
 
   def parse(str:String): Map[String,Any]=
     {
-      var result : Map[String,Any] = parseAll(obj, str).get
+      val result :Map[String,Any] = parseAll(obj, str).get
       result
     }
 }

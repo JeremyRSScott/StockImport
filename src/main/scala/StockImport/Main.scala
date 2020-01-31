@@ -1,62 +1,60 @@
 package StockImport
+import java.io.{File, PrintWriter}
+
 import scalaj.http.Http
 import java.sql.{Connection, DriverManager, ResultSet}
+
+import scala.annotation.tailrec
 import scala.collection.immutable.HashMap
+import scala.io.Source
 
-object DatabaseStrategy{
 
-  classOf[org.postgresql.Driver]
-  val con_str = "jdbc:postgresql://localhost:5432/DB_NAME?user=DB_USER"
-  val conn = DriverManager.getConnection(con_str)
-
-  def InsertQuery(qry:String,seq:Seq[Any]) ={
-
-    try {
-      val stm = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_UPDATABLE)
-      val rs = stm.executeQuery(qry)
-    }
-    finally {
-      conn.commit
-      conn.close
-    }
-  }
-  def SelectQuery(qry:String):Any={
-    try {
-      val stm = conn.createStatement(ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_READ_ONLY)
-      val rs = stm.executeQuery(qry)
-      conn.close()
-      rs
-    }
-  }
-}
 
 object Main extends App{
   var resp = HttpRequest.Get("https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=MSFT&outputsize=full&apikey=O6AA0MHLJIH01UAA")
   val result = JsonParser.parse(resp)
-
+  val filepath:String = "D:\\Projects\\test\\DATA.csv"
   //println(result)
   result("Meta Data") match{
-    case m:HashMap[String,Any]=>{
+    case m:HashMap[String,Any]=>
       val symbols = "MSFT,AAPL"
       val t:String  = m("2. Symbol").asInstanceOf[String]
       t match{
         case _ if symbols.contains(t)=> println("Hello")
         case _=> println(t)
       }
+
+  }
+  val format = new java.text.SimpleDateFormat("yyyy-MM-dd")
+  val src = Source.fromFile(filepath)
+  val fileContents:String = src.getLines().mkString("\n")
+  var days:HashMap[String,HashMap[String,Double]]= result("Time Series (Daily)").asInstanceOf[HashMap[String,HashMap[String,Double]]]
+  val keys:List[String] = days.keySet.toList
+  src.close()
+
+
+  @tailrec def BuildString(fileContents:String, keys:List[String], m:HashMap[String,HashMap[String,Double]]):String={
+    keys match{
+      case h::t=>
+        h match{
+          case f if fileContents.contains(h) =>
+            BuildString(fileContents,t, m)
+          case _=>
+            val dayValues:HashMap[String,Double] = m(h):HashMap[String, Double]
+            val new_string = fileContents+"\n"+h+","+dayValues.values.toList.mkString(",")
+            BuildString(new_string, t,m)
+
+        }
+      case Nil=>fileContents
     }
   }
-  var r:HashMap[String,HashMap[String,Double]]= result("Time Series (Daily)").asInstanceOf[HashMap[String,HashMap[String,Double]]]
-  r.keys.foreach(k=>{
-    val s:String="SELECT * FROM "
-    k match{
-      case x if s.contains(k)=>
-        println("contained")
-      case _=>
-        DatabaseStrategy.InsertQuery("")
-    }
+  val newFileString:String = BuildString(fileContents,keys,days)
+  val file:File = new File(filepath)
+  val printWriter:PrintWriter = new PrintWriter(file)
+  printWriter.write(newFileString)
+  printWriter.close()
 
-
-
-  })
+  println(newFileString)
+ //println(newString)
 
 }
