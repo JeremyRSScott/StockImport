@@ -14,24 +14,13 @@ object Main extends App{
   var resp = HttpRequest.Get("https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=MSFT&outputsize=full&apikey=O6AA0MHLJIH01UAA")
   val result = JsonParser.parse(resp)
   val filepath:String = "D:\\Projects\\test\\DATA.csv"
-  //println(result)
-  result("Meta Data") match{
-    case m:HashMap[String,Any]=>
-      val symbols = "MSFT,AAPL"
-      val t:String  = m("2. Symbol").asInstanceOf[String]
-      t match{
-        case _ if symbols.contains(t)=> println("Hello")
-        case _=> println(t)
-      }
 
-  }
   val format = new java.text.SimpleDateFormat("yyyy-MM-dd")
   val src = Source.fromFile(filepath)
   val fileContents:String = src.getLines().mkString("\n")
   var days:HashMap[String,HashMap[String,Double]]= result("Time Series (Daily)").asInstanceOf[HashMap[String,HashMap[String,Double]]]
   val keys:List[String] = days.keySet.toList
   src.close()
-
 
   @tailrec def BuildString(fileContents:String, keys:List[String], m:HashMap[String,HashMap[String,Double]]):String={
     keys match{
@@ -53,8 +42,4 @@ object Main extends App{
   val printWriter:PrintWriter = new PrintWriter(file)
   printWriter.write(newFileString)
   printWriter.close()
-
-  println(newFileString)
- //println(newString)
-
 }
