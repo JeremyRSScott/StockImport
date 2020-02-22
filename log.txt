@@ -1,0 +1,5121 @@
+[info] Loading settings for project global-plugins from metals.sbt ...
+[info] Loading global plugins from /Users/jeremyscott/.sbt/1.0/plugins
+[info] Loading project definition from /Users/jeremyscott/Projects/scala/StockImport/project
+[info] Loading settings for project stockimport from build.sbt ...
+[info] Set current project to StockImport (in build file:/Users/jeremyscott/Projects/scala/StockImport/)
+[info] running StockImport.Main 
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Sell
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Stay Out
+Buy
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+Hold
+End
+[success] Total time: 6 s, completed 16 Feb. 2020, 12:39:54 pm
+[error] Expected ';'
+[error] Not a valid command: build
+[error] Not a valid project ID: build
+[error] Expected ':'
+[error] Not a valid key: build (similar: loadedBuild, isMetaBuild)
+[error] build
+[error]      ^

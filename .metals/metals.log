@@ -1,0 +1,1100 @@
+INFO  time: initialize in 0.24s
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/StockDay.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/FileImporter.scala
+INFO  running '/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/6s/j_1xmq_j4s3dyqhcm0n2mp7c0000gn/T/metals3944005756298514324/sbt-launch.jar metalsEnable bloopInstall'
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+INFO  [info] Loading settings for project global-plugins from metals.sbt ...
+INFO  [info] Loading global plugins from /Users/jeremyscott/.sbt/1.0/plugins
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+INFO  [info] Loading project definition from /Users/jeremyscott/Projects/scala/StockImport/project
+INFO  [success] Generated .bloop/stockimport-build.json
+INFO  [success] Total time: 1 s, completed 16 Feb. 2020, 9:00:57 am
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in scala.collection.immutable.HashMap[String,Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 2191, 2191, 2213)
+INFO  [info] Loading settings for project stockimport from build.sbt ...
+INFO  [info] Set current project to StockImport (in build file:/Users/jeremyscott/Projects/scala/StockImport/)
+INFO  [info] Set current project to StockImport (in build file:/Users/jeremyscott/Projects/scala/StockImport/)
+INFO  [info] semanticdb-scalac is enabled
+INFO  [warn] postgresql-9.3-1102-jdbc41-sources.jar no longer exists at /C:/Users/jerem/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/9.3-1102-jdbc41/postgresql-9.3-1102-jdbc41-sources.jar
+INFO  [success] Generated .bloop/stockimport.json
+INFO  [success] Generated .bloop/stockimport-test.json
+INFO  [success] Total time: 2 s, completed 16 Feb. 2020, 9:01:02 am
+INFO  build tool exit: 0
+INFO  time: ran 'sbt bloopInstall' in 19s
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 1634, 1634, 1648)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+Feb. 16, 2020 9:08:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 240
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+INFO  time: initialize in 0.21s
+INFO  skipping build import with status 'Installed'
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/StockDay.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/FileImporter.scala
+INFO  no build target: using presentation compiler with only scala-library
+Feb. 16, 2020 9:20:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Feb. 16, 2020 9:20:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 9:24:10 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:24:10 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:25:22 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:438)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.expected$1(CompletionProvider.scala:348)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:420)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:25:22 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: null
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 9:25:27 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb. 16, 2020 9:25:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:88)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3084, 3084, 3098)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3084, 3084, 3097)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3084, 3084, 3098)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3084, 3084, 3098)
+Feb. 16, 2020 9:26:35 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb. 16, 2020 9:26:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:22)
+
+Feb. 16, 2020 9:26:37 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb. 16, 2020 9:26:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:230)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:24)
+
+Feb. 16, 2020 9:26:38 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb. 16, 2020 9:26:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:230)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:24)
+
+Feb. 16, 2020 9:27:59 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb. 16, 2020 9:27:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:416)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:137)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:155)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:959)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:807)
+	at scala.meta.internal.pc.HoverProvider.typedHoverTreeAt(HoverProvider.scala:230)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:24)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 9:31:21 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1568)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1560)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1232)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:451)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:31:25 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1568)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1560)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CaseKeyword.<init>(Completions.scala:1232)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:454)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:31:27 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1568)
+	at scala.meta.internal.pc.Completions$Parents.<init>(Completions.scala:1560)
+	at scala.meta.internal.pc.Completions$CompletionPosition$CasePattern.<init>(Completions.scala:1390)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:417)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:31:52 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:448)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 9:44:02 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb. 16, 2020 9:44:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+List[Double] {
+  <synthetic> val <<error: <none>>: error>: <error> = 2.$div(1.$plus(dayRange));
+  <synthetic> def <<error: <none>>: error>(result: List[Double], multiplier: Double, days: List[StockDay], yesterdayEma: Double): <error> = <empty> match {
+    case $colon$colon((h @ _), (t @ _)) => {
+      val ema: Double = h.Close.$times(multiplier).$plus(yesterdayEma);
+      createEmaList({
+        <synthetic> <artifact> val x$3 = result;
+        ema.$plus$colon(x$3)
+      })
+    }
+  }
+}
+     while compiling: file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.8
+    compiler version: version 2.12.8
+  reconstructed args: -Ypresentation-any-thread -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -classpath /Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar
+
+  last tree to typer: Template
+       tree position: line 101 of file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    98   }
+    99 
+   100 
+   101   def CalculateEma(dayRange:Int, days:List[StockDay]):List[Double]{
+   102     val multiplier:Double = (2/(1+dayRange))
+   103     
+   104     def createEmaList(result:List[Double],multiplier:Double,days:List[StockDay],yesterdayEma:Double){
+scala.reflect.internal.FatalError: 
+  unexpected tree: class scala.reflect.internal.Trees$Template
+List[Double] {
+  <synthetic> val <<error: <none>>: error>: <error> = 2.$div(1.$plus(dayRange));
+  <synthetic> def <<error: <none>>: error>(result: List[Double], multiplier: Double, days: List[StockDay], yesterdayEma: Double): <error> = <empty> match {
+    case $colon$colon((h @ _), (t @ _)) => {
+      val ema: Double = h.Close.$times(multiplier).$plus(yesterdayEma);
+      createEmaList({
+        <synthetic> <artifact> val x$3 = result;
+        ema.$plus$colon(x$3)
+      })
+    }
+  }
+}
+     while compiling: file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.12.8
+    compiler version: version 2.12.8
+  reconstructed args: -Ypresentation-any-thread -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -classpath /Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar
+
+  last tree to typer: Template
+       tree position: line 101 of file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+              symbol: <none>
+   symbol definition: <none> (a NoSymbol)
+      symbol package: <none>
+       symbol owners: 
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    98   }
+    99 
+   100 
+   101   def CalculateEma(dayRange:Int, days:List[StockDay]):List[Double]{
+   102     val multiplier:Double = (2/(1+dayRange))
+   103     
+   104     def createEmaList(result:List[Double],multiplier:Double,days:List[StockDay],yesterdayEma:Double){
+	at scala.reflect.internal.Reporting.abort(Reporting.scala:68)
+	at scala.reflect.internal.Reporting.abort$(Reporting.scala:64)
+	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:27)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5673)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5690)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5726)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5810)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitionTypedTreeAt(PcDefinitionProvider.scala:107)
+	at scala.meta.internal.pc.PcDefinitionProvider.definition(PcDefinitionProvider.scala:22)
+
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3351, 3351, 3365)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+Feb. 16, 2020 9:49:04 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 9:49:04 AM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3160, 3160, 3174)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3160, 3160, 3168)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3160, 3160, 3172)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3160, 3160, 3172)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3160, 3160, 3172)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3088, 3088, 3100)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3424, 3424, 3438)
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 10:13:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3544, count -1, length 3849
+java.lang.StringIndexOutOfBoundsException: offset 3544, count -1, length 3849
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+Feb. 16, 2020 10:22:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3551, count -1, length 3907
+java.lang.StringIndexOutOfBoundsException: offset 3551, count -1, length 3907
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3082, 3082, 3096)
+Feb. 16, 2020 10:49:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3169, count -1, length 3199
+java.lang.StringIndexOutOfBoundsException: offset 3169, count -1, length 3199
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3082, 3082, 3096)
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3167, 3167, 3181)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 10:52:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3225, count -1, length 3263
+java.lang.StringIndexOutOfBoundsException: offset 3225, count -1, length 3263
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 11:03:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1775
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 11:04:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3666, count -1, length 3742
+java.lang.StringIndexOutOfBoundsException: offset 3666, count -1, length 3742
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+Feb. 16, 2020 12:00:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3550, 3550, 3562)
+Feb. 16, 2020 12:01:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3729, count -1, length 3815
+java.lang.StringIndexOutOfBoundsException: offset 3729, count -1, length 3815
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+Feb. 16, 2020 12:03:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$4(HoverProvider.scala:51)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$3(HoverProvider.scala:50)
+	at scala.Option.flatMap(Option.scala:188)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:49)
+
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+Feb. 16, 2020 12:03:35 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 12:03:35 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 12:03:35 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+Feb. 16, 2020 12:03:35 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+Feb. 16, 2020 12:12:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: offset 3933, count -1, length 3988
+java.lang.StringIndexOutOfBoundsException: offset 3933, count -1, length 3988
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3395)
+	at java.base/java.lang.String.rangeCheck(String.java:289)
+	at java.base/java.lang.String.<init>(String.java:285)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:359)
+	at scala.Option.map(Option.scala:163)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:358)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 12:14:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+Feb. 16, 2020 12:14:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala, 3718, 3718, 3730)
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Stock.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 411, 411, 425)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 411, 411, 423)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 411, 411, 424)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 411, 411, 424)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 430, 430, 444)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 430, 430, 442)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 430, 430, 442)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 430, 430, 442)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 544, 544, 558)
+Feb. 16, 2020 12:18:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2524
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 544, 544, 554)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 544, 544, 556)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 544, 544, 556)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 544, 544, 556)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 563, 563, 577)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 563, 563, 575)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 563, 563, 574)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 563, 563, 573)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 561, 561, 575)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[<error>]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 561, 561, 569)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 561, 561, 573)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 561, 561, 573)
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 561, 561, 573)
+Feb. 16, 2020 12:18:55 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:835)
+
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 567, 567, 579)
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 448, 448, 460)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+something's wrong: no file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala in List[Double]RangePosition(file:///Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala, 448, 448, 460)
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  no build target: /Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals

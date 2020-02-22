@@ -46,27 +46,28 @@ class Stock(val StockCode:String){
     //list.sortBy(_.Date)
   }
 
-  def ConvertDaysToSortedString(stockdays:List[StockDay]): String ={
+  @tailrec private def ConvertDaysToSortedString(stockdays:List[StockDay],stz:String): String ={
     stockdays match{
-      case h::t=> h.ToCsvString + ConvertDaysToSortedString(t)
-      case Nil=>""
+      case h::t=>  ConvertDaysToSortedString(t, stz+h.ToCsvString)
+      case Nil=> stz
     }
   }
+  @tailrec  private def BuildCsvString(fileContents:String, keys:List[String], m:HashMap[String,HashMap[String,Double]]):String={
+   keys match{
+     case h::t=>
+       if(fileContents contains h){
+         BuildCsvString(fileContents,t, m)
+       }else{
+         val dayValues:HashMap[String,Double] = m(h):HashMap[String, Double]
+         val new_string = fileContents+"\n"+h+","+dayValues.values.toList.mkString(",")
+         BuildCsvString(new_string, t,m)
+       }
+     case Nil=>fileContents
+   }
+ }
+
 
   private def UpdateData():List[StockDay]={
-    @tailrec def BuildCsvString(fileContents:String, keys:List[String], m:HashMap[String,HashMap[String,Double]]):String={
-      keys match{
-        case h::t=>
-          if(fileContents contains h){
-            BuildCsvString(fileContents,t, m)
-          }else{
-            val dayValues:HashMap[String,Double] = m(h):HashMap[String, Double]
-            val new_string = fileContents+"\n"+h+","+dayValues.values.toList.mkString(",")
-            BuildCsvString(new_string, t,m)
-          }
-        case Nil=>fileContents
-      }
-    }
 
     val daydata:HashMap[String,HashMap[String,Double]] = AlphaVantageApi.GetData(StockCode)
     val src = Source.fromFile(FileImporter.GetRawFilePath(StockCode))
@@ -87,7 +88,7 @@ class Stock(val StockCode:String){
     }.start()
 
     val stockdays = CreateSortableList(newFileString.split("\n").toList)
-    val sorted_data = ConvertDaysToSortedString(stockdays)
+    val sorted_data = ConvertDaysToSortedString(stockdays,"")
     new Thread {
       override def run(): Unit = {
         FileImporter.UpdateProcessed(StockCode,sorted_data)
@@ -95,5 +96,25 @@ class Stock(val StockCode:String){
     }.start()
     stockdays
   }
-}
+  private def CalculateInitialEma(n:Int, l:List[StockDay]):Double={
+    (l.map(_.Close).sum.toFloat/n)
+  }
+  @tailrec private def createEmaList(result:List[Double],multiplier:Double,days:List[StockDay],yesterdayEma:Double):List[Double]={
+    days match{
+      case h::t=>
+        {
+          val ema:Double = (h.Close * multiplier) + (yesterdayEma*(1-multiplier))
+          createEmaList(result++List(ema),multiplier,t,ema)
+        }
+      case Nil=> result
+    }
+  }
+  def CalculateEma(dayRange:Int):List[Double]={
+    val multiplier:Double = (2.toFloat/(1+dayRange))
+    val lis = StockDays.reverse.takeRight(StockDays.length-20)
+    val drop_list = lis.drop(20)
+    val initial_sma = CalculateInitialEma(dayRange,drop_list)
+    createEmaList(List(),multiplier,lis,initial_sma)
+  }
 
+}

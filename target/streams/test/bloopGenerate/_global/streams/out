@@ -1,0 +1,4 @@
+[debug] [stockimport-test] Classpath dependencies List()
+[debug] [stockimport-test] Dependencies from configurations List(stockimport)
+[debug] Bloop wrote the configuration of project 'stockimport-test' to '/Users/jeremyscott/Projects/scala/StockImport/.bloop/stockimport-test.json'
+[success] Generated .bloop/stockimport-test.json

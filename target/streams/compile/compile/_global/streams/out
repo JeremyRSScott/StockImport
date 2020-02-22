@@ -1,2 +1,4 @@
-[debug] Acquiring lock on file C:\Users\jerem\IdeaProjects\StockImport\project\target\.sbt-compilation-infos\stockimport-compile\.sbt-idea-lock ...
-[debug] Releasing lock on file C:\Users\jerem\IdeaProjects\StockImport\project\target\.sbt-compilation-infos\stockimport-compile\.sbt-idea-lock.
+[0m[[0m[31merror[0m] [0m[0m/Users/jeremyscott/Projects/scala/StockImport/src/main/scala/StockImport/Main.scala:48:29: too many arguments (3) for method CompareEma: (ema1: List[Double], ema2: List[Double])Unit[0m
+[0m[[0m[31merror[0m] [0m[0m  CompareEma(twentye,fiftye,is_bigger)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,191 @@
+{
+    "version" : "1.1.2",
+    "project" : {
+        "name" : "stockimport-test",
+        "directory" : "/Users/jeremyscott/Projects/scala/StockImport",
+        "sources" : [
+            "/Users/jeremyscott/Projects/scala/StockImport/src/test/scala-2.13",
+            "/Users/jeremyscott/Projects/scala/StockImport/src/test/scala",
+            "/Users/jeremyscott/Projects/scala/StockImport/src/test/java",
+            "/Users/jeremyscott/Projects/scala/StockImport/target/scala-2.13/src_managed/test"
+        ],
+        "dependencies" : [
+            "stockimport"
+        ],
+        "classpath" : [
+            "/Users/jeremyscott/Projects/scala/StockImport/.bloop/stockimport/scala-2.13/classes",
+            "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/9.3-1102-jdbc41/postgresql-9.3-1102-jdbc41.jar",
+            "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar",
+            "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalaj/scalaj-http_2.11/2.3.0/scalaj-http_2.11-2.3.0.jar",
+            "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar"
+        ],
+        "out" : "/Users/jeremyscott/Projects/scala/StockImport/.bloop/stockimport",
+        "classesDir" : "/Users/jeremyscott/Projects/scala/StockImport/.bloop/stockimport/scala-2.13/test-classes",
+        "resources" : [
+            "/Users/jeremyscott/Projects/scala/StockImport/src/test/resources",
+            "/Users/jeremyscott/Projects/scala/StockImport/target/scala-2.13/resource_managed/test"
+        ],
+        "scala" : {
+            "organization" : "org.scala-lang",
+            "name" : "scala-compiler",
+            "version" : "2.13.1",
+            "options" : [
+            ],
+            "jars" : [
+                "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar",
+                "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.1/scala-compiler-2.13.1.jar",
+                "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar",
+                "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.12/jansi-1.12.jar",
+                "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.1/scala-reflect-2.13.1.jar"
+            ],
+            "setup" : {
+                "order" : "mixed",
+                "addLibraryToBootClasspath" : true,
+                "addCompilerToClasspath" : false,
+                "addExtraJarsToClasspath" : false,
+                "manageBootClasspath" : true,
+                "filterLibraryFromClasspath" : true
+            }
+        },
+        "java" : {
+            "options" : [
+            ]
+        },
+        "test" : {
+            "frameworks" : [
+                {
+                    "names" : [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names" : [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options" : {
+                "excludes" : [
+                ],
+                "arguments" : [
+                ]
+            }
+        },
+        "platform" : {
+            "name" : "jvm",
+            "config" : {
+                "home" : "/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home",
+                "options" : [
+                ]
+            },
+            "mainClass" : [
+            ]
+        },
+        "resolution" : {
+            "modules" : [
+                {
+                    "organization" : "org.postgresql",
+                    "name" : "postgresql",
+                    "version" : "9.3-1102-jdbc41",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "postgresql",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/9.3-1102-jdbc41/postgresql-9.3-1102-jdbc41.jar"
+                        },
+                        {
+                            "name" : "postgresql",
+                            "classifier" : "sources",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/9.3-1102-jdbc41/postgresql-9.3-1102-jdbc41-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scala-lang.modules",
+                    "name" : "scala-parser-combinators_2.13",
+                    "version" : "1.1.2",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-parser-combinators_2.13",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar"
+                        },
+                        {
+                            "name" : "scala-parser-combinators_2.13",
+                            "classifier" : "sources",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scalaj",
+                    "name" : "scalaj-http_2.11",
+                    "version" : "2.3.0",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "scalaj-http_2.11",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalaj/scalaj-http_2.11/2.3.0/scalaj-http_2.11-2.3.0.jar"
+                        },
+                        {
+                            "name" : "scalaj-http_2.11",
+                            "classifier" : "sources",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalaj/scalaj-http_2.11/2.3.0/scalaj-http_2.11-2.3.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scala-lang",
+                    "name" : "scala-library",
+                    "version" : "2.13.1",
+                    "configurations" : "default",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-library",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name" : "scala-library",
+                            "classifier" : "sources",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization" : "org.scala-lang",
+                    "name" : "scala-library",
+                    "version" : "2.13.1",
+                    "configurations" : "optional",
+                    "artifacts" : [
+                        {
+                            "name" : "scala-library",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name" : "scala-library",
+                            "classifier" : "sources",
+                            "path" : "/Users/jeremyscott/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.1/scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
